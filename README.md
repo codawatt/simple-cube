@@ -1,5 +1,5 @@
 # Simple Cube
-
+![Icon](icon.png)
 A minimal **Godot → HTML5 → itch.io** release pipeline demo.
 
 The main purpose of this repository is to document a clear workflow for shipping small web games, from the Godot editor to a published itch.io page.
