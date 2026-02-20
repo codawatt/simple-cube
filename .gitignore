@@ -1,0 +1,55 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.import/
+.export/
+.export.cfg
+export_presets.cfg
+
+# Mono / C#
+.mono/
+data_*/
+.nuget/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Build / export
+build/
+bin/
+obj/
+
+# Cache
+.cache/
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Crash dumps
+*.dmp
+
+# Android
+android/build/
+android/.gradle/
+
+# iOS
+ios/build/
+
+# Web export
+*.wasm
+*.pck
+
+# User ignores
+/textures/
+req.md
